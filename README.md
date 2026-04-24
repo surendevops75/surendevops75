@@ -67,9 +67,10 @@ I'm a passionate **DevOps Engineer** with **4+ years of experience** in building
 
 </p>
 
-<p align="center">
+###
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surendevops75&theme=tokyonight&hide_border=true" height="180em"/>
+<br clear="both">
 
-</p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
+###
