@@ -32,9 +32,9 @@ I'm a passionate **DevOps Engineer** with **4+ years of experience** in building
 
 ### 🏢 DevOps Engineer  
 **Microgate Technologies Pvt Ltd**  
-📍 Hyderabad | 🗓️ Mar 2022 - Present
+📍 Hyderabad | 🗓️ Jan 2022 - Present
 
-- Reduced deployment time by **70%**
+- Reduced deployment time by **60%**
 - Improved uptime to **99.9%**
 - Reduced AWS cost by **25%**
 - Managed EKS clusters and CI/CD pipelines
