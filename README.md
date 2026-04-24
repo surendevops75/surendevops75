@@ -1,3 +1,41 @@
+# 👋 Hi, I'm Surendra Nallabothula
+
+## DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
+
+🚀 DevOps • Cloud Engineer • Kubernetes • AWS • Terraform • Automation
+
+<p align="left">
+<a href="https://linkedin.com/in/surendra">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:surendran.devops@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/surendevops75">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+I'm a passionate **DevOps Engineer** with **4+ years of experience** in building scalable, secure, and highly available cloud platforms.
+
+I specialize in:
+
+- ☁️ AWS Cloud Infrastructure  
+- 🚢 Kubernetes / EKS Production Clusters  
+- ⚙️ CI/CD Automation using Jenkins & GitHub Actions  
+- 🏗️ Infrastructure as Code with Terraform  
+- 📊 Monitoring using Prometheus / Grafana / ELK  
+- 🔐 DevSecOps with SonarQube & Trivy  
+- 🐧 Linux Administration & Shell Scripting  
+
+Focused on delivering reliable deployments, automation at scale, and improving system uptime.
+
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surendra-devops) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surendran.devops@gamil.com) 
 
