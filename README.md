@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github banner1.png" alt="GitHub Banner" width="80%" />
+  <img src="./github banner1.png" alt="GitHub Banner" width="90%" />
 </p>
 
 # 👋 Hi, I'm Surendra Nallabothula
