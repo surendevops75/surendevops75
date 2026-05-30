@@ -58,20 +58,17 @@ I'm a passionate **DevOps Engineer** with **4+ years of experience** in building
 - ⚡ Troubleshoot incidents, perform root cause analysis, and improve system stability  
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=surendevops75&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendevops75&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-
+<a href="https://github.com/surendevops75">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=surendevops75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendevops75&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surendevops75&theme=tokyonight&hide_border=true" height="180em"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surendevops75&theme=tokyonight&hide_border=true"/>
 </p>
 
 Thanks for visiting!
