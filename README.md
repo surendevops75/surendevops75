@@ -58,17 +58,16 @@ I'm a passionate **DevOps Engineer** with **4+ years of experience** in building
 - ⚡ Troubleshoot incidents, perform root cause analysis, and improve system stability  
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surendevops75&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendevops75&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
+![](https://github-readme-stats.shion.dev/api?username=surendevops75&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=surendevops75&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=surendevops75&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surendevops75&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=surendevops75&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Thanks for visiting!
 
