@@ -161,17 +161,6 @@ I enjoy building reliable, scalable, and secure platforms using Infrastructure a
 
 ---
 
-# 📚 Currently Learning
-
-* Platform Engineering
-* Kubernetes Best Practices
-* Advanced GitOps
-* Cloud Security
-* Infrastructure Automation
-* AI for DevOps
-
----
-
 # 🤝 Connect With Me
 
 <p>
