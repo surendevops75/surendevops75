@@ -149,15 +149,10 @@ I enjoy building reliable, scalable, and secure platforms using Infrastructure a
 
 # 📈 GitHub Statistics
 
-<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=surendevops75&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surendevops75&theme=github-dark&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendevops75&layout=compact&theme=github_dark&hide_border=true" />
-
-</p>
+![](https://github-readme-stats.shion.dev/api?username=surendevops75&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=surendevops75&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=surendevops75&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
